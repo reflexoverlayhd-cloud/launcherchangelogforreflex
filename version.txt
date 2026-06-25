@@ -1,2 +1,2 @@
-VERSION=2.6
+VERSION=2.5
 URL=https:https://download1339.mediafire.com/knnojetcw3lgvm0GB_UCTsNoZ1TZ5mlhb1a75ydtIUHdLR6fe4yfYrH-ErXW_Y0vHW0Ss-SBQBAAdb9zdJlMxE0gI7LRfQk-Nk8N2SSZYaMQgHshBRKdNv38JHwrNAj2GnYXZZFrPN6ercQIFUzkZGUeuzeuJnu9JIawAFEJs1YfuA/qon45lljhsbj5kl/Steam.zip
