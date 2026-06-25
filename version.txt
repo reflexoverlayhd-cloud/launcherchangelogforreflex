@@ -1,2 +1,2 @@
-VERSION=2.0.0
+VERSION=2.5.0
 URL=https:https://mega.nz/file/goJhBZgI#F0St7Ur3uVuxS39gUcQ6OwRkcN6Hw4DqpJ0Fzu4r-yQ
