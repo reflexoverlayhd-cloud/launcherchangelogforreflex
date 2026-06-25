@@ -1,2 +1,2 @@
 VERSION=2.6.0
-URL=https:https://mega.nz/file/goJhBZgI#F0St7Ur3uVuxS39gUcQ6OwRkcN6Hw4DqpJ0Fzu4r-yQ
+URL=https:https://download1581.mediafire.com/muxtv03y5wagRc49mk4rKoQ0vMG-Ght5UOtnXVQ7unWqzFIDXaI1-S6ONkwjb-LYzSqE9AajtnoAG4Mib6Nfv8Lo9RXx1h7RhgDa0FEfK1kISBO9uQNWUhFfGwRxuBK5T1faopE6_4Vzwhbnz0Ezdku5lMegGlvZRhfB0dMP4l68NjU/n9redh1bash5ftf/Steam.zip
