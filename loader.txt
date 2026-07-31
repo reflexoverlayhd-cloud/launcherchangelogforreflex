@@ -1,2 +1,2 @@
 VERSION=0.5
-URL=https://download1348.mediafire.com/4kh6n21u5mggUYCLyLnAzCRyqVZkreDL7oevBfBS8tmliE6v6cKhJxQJl6iymFGUQ0ocra9tjsmNIZTKhPbkm5Di4dNuJvLZhj2sXwOh_PaAXFGh698pamguk3wtbS7RD7vUSr_GYKCJnk6o2QgRQHlFiMBcrr6H6dY4RY2clEqAuA/oznfeab9dkip8xe/Loader.zip
+URL=https://github.com/reflexoverlayhd-cloud/steamlibrarygames/releases/download/Multi/Loader.zip
