@@ -1,2 +1,2 @@
-VERSION=0.5
+VERSION=2.5
 URL=https://github.com/reflexoverlayhd-cloud/steamlibrarygames/releases/download/Multi/Update.zip
